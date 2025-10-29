@@ -216,8 +216,8 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 🎓 B.Tech. Computer Science and Engineering(Data Science)
 💼 Machine Learning Intern | NLP Developer | Quantum Computing Enthusiast
 
-📧 *Contact:* [[your-email@example.com](pradeeshvasu22@gmail.com)]
-🌐 *Portfolio:* [[Add your GitHub/LinkedIn link here](https://github.com/PradeeshVasu)]
+📧 *Contact:* [[pradeeshvasu22@gmail.com](pradeeshvasu22@gmail.com)]
+🌐 *Portfolio:* [[https://github.com/PradeeshVasu](https://github.com/PradeeshVasu)]
 
 ---
 
