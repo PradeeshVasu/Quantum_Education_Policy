@@ -231,7 +231,6 @@ Licensed under the **MIT License** — you are free to use, modify, and distribu
 <div align="center">
 
 > *“Bridging Classical AI and Quantum Computing to shape better education policy intelligence.”*
-> — *Pradeesh V, 2025*
 
 </div>
 
