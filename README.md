@@ -217,9 +217,9 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 
 💼 Machine Learning Intern | NLP Developer | Quantum Computing Enthusiast
 
-📧 *Contact:* [[pradeeshvasu22@gmail.com](pradeeshvasu22@gmail.com)]
+📧 *Contact:* [pradeeshvasu22@gmail.com]
 
-🌐 *Portfolio:* [[https://github.com/PradeeshVasu](https://github.com/PradeeshVasu)]
+🌐 *Portfolio:* [https://github.com/PradeeshVasu]
 
 ---
 
