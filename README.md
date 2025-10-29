@@ -212,14 +212,13 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 
 ## 👨‍💻 Author
 
-**Pradeesh V**
-🎓 B.Tech. Computer Science and Engineering(Data Science)
-
+**Pradeesh Vasu**
+🎓 B.Tech. Computer Science and Engineering(Data Science)                                    
 💼 Machine Learning Intern | NLP Developer | Quantum Computing Enthusiast
 
-📧 *Contact:* [pradeeshvasu22@gmail.com]
-
-🌐 *Portfolio:* [https://github.com/PradeeshVasu]
+📧 *E-mail id:* [pradeeshvasu22@gmail.com]
+🌐 *github:* [https://github.com/PradeeshVasu]
+💼 *LinkedIn:* [linkedin.com/in/pradeesh-vasu-03486b319](https://www.linkedin.com/in/pradeesh-vasu-03486b319)
 
 ---
 
