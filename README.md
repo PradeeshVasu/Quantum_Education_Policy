@@ -210,7 +210,7 @@ You’ll see a clean web interface where you can enter a query (e.g.,
 ## 🧑‍💻 Author
 
 **Pradeesh**
-🎓 B.E. Computer Science and Engineering
+🎓 B.Tech. Computer Science and Engineering(Data Science)
 💼 Machine Learning & NLP Enthusiast | FastAPI Developer | Quantum Computing Explorer
 
 ---
