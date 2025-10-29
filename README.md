@@ -216,8 +216,8 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 🎓 B.Tech. Computer Science and Engineering(Data Science)
 💼 Machine Learning Intern | NLP Developer | Quantum Computing Enthusiast
 
-📧 *Contact:* [[your-email@example.com](mailto:your-email@example.com)]
-🌐 *Portfolio:* [Add your GitHub/LinkedIn link here]
+📧 *Contact:* [[your-email@example.com](pradeeshvasu22@gmail.com)]
+🌐 *Portfolio:* [[Add your GitHub/LinkedIn link here](https://github.com/PradeeshVasu)]
 
 ---
 
@@ -230,7 +230,7 @@ Licensed under the **MIT License** — you are free to use, modify, and distribu
 <div align="center">
 
 > *“Bridging Classical AI and Quantum Computing to shape better education policy intelligence.”*
-> — *Pradeesh, 2025*
+> — *Pradeesh V, 2025*
 
 </div>
 
