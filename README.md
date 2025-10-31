@@ -174,6 +174,10 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 | 3    | Inclusive Education Strategy        | West   | 2022 | 0.81  |
 
 ---
+## Quantum_Education_Policy NLP Model
+
+<img width="1798" height="1042" alt="Screenshot 2025-10-30 191032" src="https://github.com/user-attachments/assets/eafefed8-6cb8-4b5d-a13c-3979519d7508" />
+
 
 ## 🎨 UI Preview
 
