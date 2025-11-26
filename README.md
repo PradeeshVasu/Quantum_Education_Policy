@@ -181,8 +181,9 @@ You’ll see a sleek web UI where you can enter education-related queries like:
 <img width="1863" height="1023" alt="Screenshot 2025-10-31 202354" src="https://github.com/user-attachments/assets/1e4c0d52-7787-4732-9f0e-a8d8bcca236a" />
 
 ### NLP Interface
+<img width="1882" height="1033" alt="Screenshot 2025-11-26 224937" src="https://github.com/user-attachments/assets/4c6d6bd7-163a-4beb-bf56-c574862ef46b" />
 
-<img width="1798" height="1042" alt="Screenshot 2025-10-30 191032" src="https://github.com/user-attachments/assets/eafefed8-6cb8-4b5d-a13c-3979519d7508" />
+<img width="1876" height="1033" alt="Screenshot 2025-11-26 224948" src="https://github.com/user-attachments/assets/8dfc0e8f-37f0-46bc-8878-f95e0c34e827" />
 
 
 ## 🎨 UI Preview
